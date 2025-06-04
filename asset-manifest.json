@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolioSite/static/css/main.d648caa1.css",
+    "main.js": "/portfolioSite/static/js/main.c233e279.js",
+    "static/js/156.6a35e1a0.chunk.js": "/portfolioSite/static/js/156.6a35e1a0.chunk.js",
+    "static/media/chatApp.png": "/portfolioSite/static/media/chatApp.e71c666aca0d065cf856.png",
+    "static/media/monitoring.png": "/portfolioSite/static/media/monitoring.78ebd70deae817fdf48b.png",
+    "static/media/portfolio.png": "/portfolioSite/static/media/portfolio.988e049c395efc68a5c3.png",
+    "static/media/4Dprojection.png": "/portfolioSite/static/media/4Dprojection.0c36258b2f2425341bb7.png",
+    "static/media/waving-hand-svgrepo-com.svg": "/portfolioSite/static/media/waving-hand-svgrepo-com.09e02df9c98bcfdcced8bcc2446d3d40.svg",
+    "index.html": "/portfolioSite/index.html",
+    "main.d648caa1.css.map": "/portfolioSite/static/css/main.d648caa1.css.map",
+    "main.c233e279.js.map": "/portfolioSite/static/js/main.c233e279.js.map",
+    "156.6a35e1a0.chunk.js.map": "/portfolioSite/static/js/156.6a35e1a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d648caa1.css",
+    "static/js/main.c233e279.js"
+  ]
+}
