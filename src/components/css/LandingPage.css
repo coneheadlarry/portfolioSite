@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: "Domine", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.hello-world{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 5vw;
+}
+
+.explimation{
+    font-size: 30vw;
+}
+
+.wave-icon .wave {
+    animation: wave-animation 2s infinite;
+    width: 15vw;
+}
+
+@keyframes wave-animation {
+    0% { transform: rotate(0deg); }
+    25% { transform: rotate(15deg); }
+    50% { transform: rotate(0deg); }
+    75% { transform: rotate(-15deg); }
+    100% { transform: rotate(0deg); }
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+  }
+
+.navbar ul li a{
+    margin: 0 20px;
+    color: white;
+    font-size: 3rem;
+
+}
